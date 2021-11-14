@@ -1,7 +1,6 @@
 ### Olá, eu sou a Taina Santos Silva
 
-- 🌱 Estou graduando em Ciência da Computação e pretendo trabalhar com back-end
-- 😄 Pronome : Ela/Dela
+- 🌱 Graduando em Ciência da Computação e pretendo trabalhar com back-end
 - ⚡ Estou estudando programação porque sempre achei incrivel mesmo quando não sabia programar e meu sonho é trabalhar na área ❤🤞
 
 <div align="center">
