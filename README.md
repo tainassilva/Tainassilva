@@ -12,6 +12,7 @@
   <div style="display: inline_block"><br>
   <img align="center" alt="taina-Java" height="30" width="40" 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic91/e186d403c1fcf66fa3bb572e6b8bfd24.gif">
 </div>
   
@@ -24,4 +25,3 @@
   <a href="https://www.linkedin.com/in/taina-silva-4b7653182" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
   
-   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
