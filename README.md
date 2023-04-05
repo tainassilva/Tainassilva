@@ -10,7 +10,8 @@
 </div>
   
   <div style="display: inline_block"><br>
-  <img align="center" alt="taina-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="taina-Java" height="30" width="40" 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic91/e186d403c1fcf66fa3bb572e6b8bfd24.gif">
 </div>
   
