@@ -1,6 +1,6 @@
 ### Olá, eu sou a Taina Santos Silva
 
-- 🌱 Graduando em Ciência da Computação e pretendo trabalhar com back-end
+- 🌱 Graduando em Ciência da Computação e pretendo trabalhar como fullstack
 - ⚡ Estou estudando programação porque sempre achei incrivel mesmo quando não sabia programar e meu sonho é trabalhar na área ❤🤞
 
 <div align="center">
@@ -20,6 +20,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
   <img align="center" alt="taina-react" height="30" width="40" 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />  
+  <img align="center" alt="taina-javascript" height="30" width="40" 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic91/e186d403c1fcf66fa3bb572e6b8bfd24.gif">
 </div>
