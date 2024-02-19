@@ -6,7 +6,7 @@
 <div align="center">
   <a href="https://github.com/Tainassilva">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tainassilva&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tainassilva&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tainassilva&layout=compact&langs_count=7&theme=radical"/>
 </div>
   
   <div style="display: inline_block"><br>
@@ -22,7 +22,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />  
   <img align="center" alt="taina-javascript" height="30" width="40" 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic91/e186d403c1fcf66fa3bb572e6b8bfd24.gif">
 </div>
   
